@@ -113,11 +113,6 @@ Accedé desde el botón **Admin** en la pantalla de inicio.
 
 **Contraseña por defecto:** `admin1234`
 
-Para cambiarla, editá la línea en `app.py`:
-```python
-ADMIN_PASSWORD = "admin1234"  # ← cambiá esto
-```
-
 ### Funciones del admin
 
 - **Cargar test**: Subí un `.txt` con el formato indicado
