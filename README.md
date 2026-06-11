@@ -22,7 +22,7 @@ Plataforma para crear, compartir y jugar tests de opción múltiple. Incluye pan
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/quiz-platform.git
+git clone https://github.com/LautaroAntriolo/Quizz-Streamlit-06-2026.git
 cd quiz-platform
 ```
 
