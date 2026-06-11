@@ -1,0 +1,415 @@
+TÍTULO: Test A - Arte Digital y Video Generativo con IA
+DESCRIPCIÓN: Evaluación de pensamiento lógico, herramientas digitales, IA y comprensión en inglés técnico.
+TIEMPO_LIMITE: 45
+
+---
+
+SECCIÓN: Pensamiento Lógico y Resolución de Problemas
+
+PREGUNTA: Una tienda tiene 80 camisetas. Vende el 25% el lunes y el 40% del total el martes. ¿Cuántas camisetas quedan?
+a) 24
+b) 28
+c) 32
+d) 36
+RESPUESTA: b
+
+PREGUNTA: ¿Cuál es el número que sigue en la serie: 5, 10, 20, 40, ___?
+a) 60
+b) 70
+c) 80
+d) 100
+RESPUESTA: c
+
+PREGUNTA: Un viaje de ida cuesta $120. El boleto de ida y vuelta tiene un 15% de descuento sobre el total. ¿Cuánto cuesta el boleto de ida y vuelta?
+a) $192
+b) $200
+c) $204
+d) $210
+RESPUESTA: c
+
+PREGUNTA: Si 6 trabajadores terminan una tarea en 12 días, ¿cuántos días tardarían 9 trabajadores en terminar la misma tarea?
+a) 6
+b) 7
+c) 8
+d) 9
+RESPUESTA: c
+
+PREGUNTA: Un auto recorre 240 km usando 20 litros de combustible. ¿Cuántos litros necesita para recorrer 300 km?
+a) 22
+b) 23
+c) 24
+d) 25
+RESPUESTA: d
+
+PREGUNTA: ¿Cuál número NO pertenece a la serie: 4, 8, 12, 16, 18, 20, 24?
+a) 8
+b) 12
+c) 18
+d) 20
+RESPUESTA: c
+
+PREGUNTA: Un producto vale $350. Primero sube un 20% y luego baja un 20%. ¿Cuál es el precio final?
+a) $336
+b) $340
+c) $350
+d) $360
+RESPUESTA: a
+
+PREGUNTA: En una oficina trabajan 45 personas. El 60% son mujeres. ¿Cuántos hombres hay?
+a) 15
+b) 16
+c) 17
+d) 18
+RESPUESTA: d
+
+PREGUNTA: Completa la analogía: Libro es a Biblioteca como Cuadro es a ___
+a) Pincel
+b) Artista
+c) Museo
+d) Color
+RESPUESTA: c
+
+PREGUNTA: ¿Cuánto es el 30% de 250?
+a) 65
+b) 70
+c) 75
+d) 80
+RESPUESTA: c
+
+PREGUNTA: Si Luis tiene el triple de dinero que Pedro, y Pedro tiene $80, ¿cuánto tienen juntos?
+a) $280
+b) $300
+c) $320
+d) $340
+RESPUESTA: c
+
+PREGUNTA: Una caja tiene 5 capas de 8 frascos cada una. Se retiran 14 frascos. ¿Cuántos quedan?
+a) 24
+b) 26
+c) 28
+d) 30
+RESPUESTA: b
+
+PREGUNTA: ¿Cuál es el siguiente número de la serie: 100, 91, 82, 73, ___?
+a) 62
+b) 63
+c) 64
+d) 65
+RESPUESTA: c
+
+PREGUNTA: En un salón hay 36 alumnos. La relación entre varones y mujeres es 3:1. ¿Cuántas mujeres hay?
+a) 6
+b) 7
+c) 8
+d) 9
+RESPUESTA: d
+
+PREGUNTA: Completa la analogía: Médico es a Hospital como Piloto es a ___
+a) Aeropuerto
+b) Avión
+c) Cielo
+d) Pasajero
+RESPUESTA: b
+
+PREGUNTA: Si un empleado gana $900 por mes y recibe un bono del 10% cada trimestre, ¿cuánto gana en total en un año?
+a) $10.440
+b) $11.160
+c) $11.700
+d) $12.000
+RESPUESTA: b
+
+PREGUNTA: ¿Cuántos segundos hay en 2 horas y 15 minutos?
+a) 7.800
+b) 8.100
+c) 8.400
+d) 8.700
+RESPUESTA: b
+
+PREGUNTA: Una receta para 4 personas usa 200 g de harina. ¿Cuántos gramos se necesitan para 10 personas?
+a) 400 g
+b) 450 g
+c) 480 g
+d) 500 g
+RESPUESTA: d
+
+PREGUNTA: ¿Cuál es el número que completa la serie: 1, 4, 9, 16, 25, ___?
+a) 30
+b) 34
+c) 36
+d) 40
+RESPUESTA: c
+
+PREGUNTA: Un ciclista tarda 30 minutos en recorrer 10 km. ¿Cuántos km recorre en 2 horas a la misma velocidad?
+a) 30
+b) 35
+c) 40
+d) 45
+RESPUESTA: c
+
+---
+
+SECCIÓN: Herramientas Digitales e IA
+
+PREGUNTA: ¿Qué ocurre cuando compartís un archivo de Google Drive con permiso "Comentador"?
+a) Puede editar el contenido y dejar comentarios
+b) Solo puede ver el archivo sin interactuar
+c) Puede dejar comentarios pero no modificar el contenido
+RESPUESTA: c
+
+PREGUNTA: ¿Cuál es la diferencia entre "Hacer una copia" y "Mover" un archivo en Google Drive?
+a) "Hacer una copia" genera un duplicado; "Mover" cambia su ubicación sin duplicarlo
+b) Ambas opciones generan un duplicado en la nueva carpeta
+c) "Mover" elimina el archivo original y "Hacer una copia" lo conserva en ambos lugares
+RESPUESTA: a
+
+PREGUNTA: En Google Docs, ¿qué significa que un documento esté en "Modo sugerencias"?
+a) El documento está en solo lectura y no se puede modificar
+b) Los cambios se registran como sugerencias que el propietario puede aceptar o rechazar
+c) El documento se guarda automáticamente como borrador sin publicar
+RESPUESTA: b
+
+PREGUNTA: ¿Qué pasa con un archivo de Google Drive si eliminás tu cuenta de Google?
+a) El archivo queda disponible para todos los que tenían acceso
+b) Los archivos pasan automáticamente al propietario secundario
+c) Los archivos se eliminan permanentemente junto con la cuenta
+RESPUESTA: c
+
+PREGUNTA: En Google Docs, ¿para qué sirve la opción "Historial de versiones"?
+a) Para ver quién tiene acceso al documento en tiempo real
+b) Para ver y restaurar versiones anteriores del documento
+c) Para comparar el documento con otros archivos del Drive
+RESPUESTA: b
+
+PREGUNTA: ¿Qué es un navegador web?
+a) Un programa para editar documentos de texto
+b) Una aplicación que permite acceder y visualizar páginas de internet
+c) Un sistema para guardar archivos en la nube
+RESPUESTA: b
+
+PREGUNTA: ¿Cuál de los siguientes es un ejemplo de navegador web?
+a) Microsoft Word
+b) Google Chrome
+c) Adobe Photoshop
+RESPUESTA: b
+
+PREGUNTA: ¿Para qué sirve la barra de direcciones del navegador?
+a) Para buscar archivos guardados en tu computadora
+b) Para escribir la dirección de un sitio web o hacer una búsqueda
+c) Para guardar tus contraseñas
+RESPUESTA: b
+
+PREGUNTA: ¿Qué es el caché del navegador?
+a) Un registro de todos los sitios visitados ordenados por fecha
+b) Una lista de contraseñas guardadas por el navegador
+c) Un almacenamiento temporal de archivos web para que las páginas carguen más rápido
+RESPUESTA: c
+
+PREGUNTA: En Google Drive, ¿qué pasa si el propietario de un archivo compartido lo elimina?
+a) El archivo sigue disponible para todos los colaboradores indefinidamente
+b) Los colaboradores pierden el acceso aunque lo tengan guardado en "Compartido conmigo"
+c) El archivo pasa automáticamente al colaborador con más permisos
+RESPUESTA: b
+
+PREGUNTA: ¿Para qué sirve una herramienta de IA generativa como ChatGPT o Gemini en la edición de textos?
+a) Solo para traducir textos de un idioma a otro
+b) Para sugerir mejoras, corregir errores y reformular párrafos de forma automática
+c) Para convertir texto en imágenes de alta resolución
+RESPUESTA: b
+
+PREGUNTA: ¿Qué permiso le das a alguien en Google Drive cuando querés que solo pueda ver tu archivo sin modificarlo?
+a) Editor
+b) Comentador
+c) Lector
+RESPUESTA: c
+
+PREGUNTA: ¿Qué ventaja ofrece usar una IA para editar imágenes frente a un software tradicional?
+a) Permite realizar ajustes mediante instrucciones en lenguaje natural sin necesidad de conocimientos técnicos avanzados
+b) Genera imágenes en mayor resolución que cualquier software tradicional
+c) Reemplaza completamente al diseñador eliminando toda intervención humana
+RESPUESTA: a
+
+PREGUNTA: En Google Drive, ¿qué significa la opción "Acceso general: Cualquier persona con el enlace"?
+a) Solo los usuarios con cuenta de Google pueden abrir el archivo
+b) El archivo se publica automáticamente en los resultados de búsqueda de Google
+c) Cualquier persona que reciba el enlace puede acceder, sin necesidad de cuenta
+RESPUESTA: c
+
+PREGUNTA: ¿Qué ocurre cuando se borra el caché del navegador?
+a) Se eliminan todas las contraseñas y marcadores guardados
+b) Las páginas pueden tardar más en cargar la primera vez porque deben descargar los recursos nuevamente
+c) El navegador queda inutilizable hasta reiniciar el sistema
+RESPUESTA: b
+
+PREGUNTA: ¿Cuál de las siguientes describe mejor qué puede hacer una herramienta de IA?
+a) Solo puede responder preguntas de matemáticas
+b) Puede ayudarte a escribir textos, editar imágenes y generar ideas a partir de instrucciones simples
+c) Funciona únicamente si tenés conocimientos avanzados de programación
+RESPUESTA: b
+
+PREGUNTA: Al usar una IA para editar un texto, ¿qué buena práctica es recomendable seguir?
+a) Publicar el resultado directamente sin revisarlo porque la IA no comete errores
+b) Revisar y ajustar el resultado generado por la IA antes de utilizarlo
+c) Usar siempre el primer resultado sin hacer cambios para ahorrar tiempo
+RESPUESTA: b
+
+PREGUNTA: ¿Qué diferencia hay entre los marcadores (favoritos) y el historial del navegador?
+a) El historial guarda sitios de forma permanente; los marcadores se borran al cerrar el navegador
+b) Los marcadores guardan sitios manualmente para acceder después; el historial registra automáticamente todos los sitios visitados
+c) No hay diferencia, ambos cumplen la misma función
+RESPUESTA: b
+
+PREGUNTA: ¿Qué es un "prompt" en el contexto de las herramientas de IA?
+a) Un error que ocurre cuando la IA no entiende la solicitud
+b) La instrucción o descripción que el usuario escribe para indicarle a la IA qué debe hacer
+c) El resultado final que genera la IA después de procesar una imagen
+RESPUESTA: b
+
+PREGUNTA: ¿Cuál de las siguientes afirmaciones sobre las herramientas de IA para edición es correcta?
+a) Las herramientas de IA solo pueden usarse con conexión a internet de alta velocidad
+b) Los resultados de la IA siempre son perfectos y no requieren supervisión humana
+c) Las herramientas de IA pueden ayudar a mejorar textos e imágenes, pero requieren criterio humano para evaluar los resultados
+RESPUESTA: c
+
+---
+
+SECCIÓN: Inglés Técnico
+
+PREGUNTA: Alex is a developer who needs to fix a bug before the team deploys the new version at 5 PM. He finds the problem at 3 PM, fixes it in one hour, and runs the tests. Everything works. The deployment is done on time. How much time did Alex have to spare after fixing the bug?
+a) 30 minutes
+b) One hour
+c) Two hours
+d) No time — he was late
+RESPUESTA: b
+
+PREGUNTA: Maria uses a crypto wallet app on her phone. One day she notices the app is connected to an unknown Wi-Fi network. She turns off Wi-Fi and switches to mobile data before opening the app. Why did Maria switch to mobile data?
+a) Her phone battery was low
+b) The Wi-Fi was too slow
+c) She noticed a suspicious network connection
+d) The app required a data plan
+RESPUESTA: c
+
+PREGUNTA: Tom is reviewing a web app. He logs in as a regular user and tries to open the admin panel by typing the URL directly. The page opens without asking for extra permissions. What security problem did Tom find?
+a) The admin panel had a broken design
+b) The login page was missing
+c) Any user could access the admin panel without proper permissions
+d) The URL was too long
+RESPUESTA: c
+
+PREGUNTA: Sara receives a new design file. She has to build a webpage that works on mobile, tablet, and desktop. She uses CSS to adjust the layout for each screen size and tests the page on three different devices. What did Sara build?
+a) A responsive webpage that adapts to different screen sizes
+b) A mobile app for iOS
+c) A desktop-only website
+d) A PDF document
+RESPUESTA: a
+
+PREGUNTA: David's automated tests started failing after a teammate pushed new code. David checks the error logs and finds that a required configuration value is missing in the pipeline. He adds the missing value and the tests pass again. What was the cause of the failure?
+a) The teammate wrote bad code
+b) A missing configuration value in the pipeline
+c) The server ran out of memory
+d) The tests were incorrectly written
+RESPUESTA: b
+
+PREGUNTA: The developer ________ the bug before the deadline yesterday.
+a) fix
+b) fixed
+c) fixes
+d) fixing
+RESPUESTA: b
+
+PREGUNTA: If the server ________ down, all users will lose access to the application.
+a) go
+b) goes
+c) went
+d) going
+RESPUESTA: b
+
+PREGUNTA: Which term means converting readable data into a coded format to protect it?
+a) Compression
+b) Backup
+c) Encryption
+d) Debugging
+RESPUESTA: c
+
+PREGUNTA: The team ________ three new features last week.
+a) add
+b) adding
+c) added
+d) adds
+RESPUESTA: c
+
+PREGUNTA: A ________ is a web address that points to a specific resource on the internet.
+a) CSS
+b) URL
+c) API
+d) IDE
+RESPUESTA: b
+
+PREGUNTA: If you ________ to save your work, you may lose all changes.
+a) forget
+b) forgot
+c) forgets
+d) forgetting
+RESPUESTA: a
+
+PREGUNTA: Which HTTP status code means 'page not found'?
+a) 200
+b) 301
+c) 403
+d) 404
+RESPUESTA: d
+
+PREGUNTA: The code ________ reviewed by two developers before it was merged.
+a) is
+b) are
+c) was
+d) were
+RESPUESTA: c
+
+PREGUNTA: A ________ is a tool used to track and manage changes in source code over time.
+a) Browser
+b) Version control system
+c) Text editor
+d) Terminal
+RESPUESTA: b
+
+PREGUNTA: If the password ________ correct, the system will deny access.
+a) is not
+b) are not
+c) was not
+d) not be
+RESPUESTA: a
+
+PREGUNTA: The word 'deploy' in software development means:
+a) To write new code
+b) To release and publish an application so users can access it
+c) To delete old files
+d) To test a feature locally
+RESPUESTA: b
+
+PREGUNTA: The QA team ________ all the test cases before the release last Friday.
+a) run
+b) runs
+c) ran
+d) running
+RESPUESTA: c
+
+PREGUNTA: An ________ allows two applications to communicate and share data with each other.
+a) URL
+b) API
+c) CSS
+d) HTML
+RESPUESTA: b
+
+PREGUNTA: Every developer ________ to write clean, readable code.
+a) try
+b) tries
+c) tried
+d) trying
+RESPUESTA: b
+
+PREGUNTA: Which image format is vector-based and can scale infinitely without losing quality, making it ideal for responsive web logos and icons?
+a) JPEG
+b) PNG
+c) SVG
+d) GIF
+RESPUESTA: c
